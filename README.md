@@ -1,12 +1,11 @@
-# Todo & Student Management Application
+# Todo Application
 
-A comprehensive CRUD application with both todo and student management features, built with FastAPI backend and Next.js frontend.
+A comprehensive CRUD application with todo management features, built with FastAPI backend and Next.js frontend.
 
 ## 🚀 Features
 
 ### Backend (FastAPI)
 - **Todo Management**: Full CRUD operations for todos
-- **Student Management**: Full CRUD operations for students
 - **PostgreSQL Database**: Robust data storage with SQLAlchemy ORM
 - **RESTful API**: Clean and well-documented endpoints
 - **CORS Support**: Configured for frontend integration
@@ -15,7 +14,6 @@ A comprehensive CRUD application with both todo and student management features,
 - **Modern UI**: Clean, responsive design with Tailwind CSS
 - **TypeScript**: Full type safety throughout the application
 - **Todo Management**: Interactive todo list with CRUD operations
-- **Student Management**: Interactive student list with CRUD operations
 - **Responsive Design**: Works on all device sizes
 
 ## 🛠️ Setup Instructions
@@ -84,7 +82,7 @@ A comprehensive CRUD application with both todo and student management features,
 
 2. **Follow the setup instructions above**
 
-3. **Enjoy your todo and student management system!**
+3. **Enjoy your todo management system!**
 
 ## 🛠️ Technologies Used
 
