@@ -34,7 +34,7 @@ A comprehensive CRUD application with todo management features, built with FastA
 3. **Run the backend**:
    ```bash
    cd backend
-   uvicorn main:app --reload --host 0.0.0.0 --port 3001
+   uvicorn main:app --reload --host 0.0.0.0 --port 8000
    ```
 
 ### Frontend Setup
