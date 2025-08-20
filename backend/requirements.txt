@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# Database ORM
+SQLAlchemy==2.0.34
+
+# PostgreSQL driver
+psycopg2-binary==2.9.9
+
+# Validation
+pydantic==2.9.2
+pydantic[email]==2.9.2
+
+# CORS
+python-multipart==0.0.12
